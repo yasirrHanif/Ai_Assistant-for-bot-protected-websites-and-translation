@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+lxml
+pandas
+gradio
+groq
+openai
+youtube-transcript-api==0.6.2
+python-dotenv
+Pillow
